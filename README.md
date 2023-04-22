@@ -12,9 +12,6 @@ Hi there! I'm a full-stack developer, web designer, and programmer. I'm passiona
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MHR877&theme=ayu-mirage&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MHR877&theme=ayu-mirage&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=@AbbouMehammd)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
