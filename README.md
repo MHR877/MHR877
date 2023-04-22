@@ -15,7 +15,3 @@ Hi there! I'm a full-stack developer, web designer, and programmer. I'm passiona
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
----
-[![](https://visitcount.itsvg.in/api?id=MHR877&icon=8&color=8)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
